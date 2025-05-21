@@ -28,7 +28,7 @@ Good luck and happy coding! 🚀💻
 /my-website/
 ├── index.html
 ## Live Demo
-[]
+[https://jheremie-coder.github.io/feb-2025-final-project-and-deployment-Jheremie-coder/]
 
 ## Features
 - Responsive multipage design (Home, About, Contact)
