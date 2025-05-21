@@ -23,3 +23,24 @@ Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
 Good luck and happy coding! 🚀💻
+
+# Multipage Website Project
+/my-website/
+├── index.html
+## Live Demo
+[]
+
+## Features
+- Responsive multipage design (Home, About, Contact)
+- HTML5 semantics
+- CSS3 styling
+- JavaScript interactivity (image slider, form validation)
+- Deployed via [GitHub Pages/Netlify/Vercel]
+
+## Setup
+1. Clone the repo.
+2. Open `index.html` in your browser.
+3. Or visit the live site above.
+
+## Author
+Jheremie-coder
